@@ -26,12 +26,12 @@ Results
 •	What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 	1)	Successful launch dates were most populous during May-June.
-	2)	It would be so valuable to also include percentage successful information in this data, because an awful lot of failed campaigns also happened in these 		months.
+	2)	It would be so valuable to also include percentage successful information in this data, because an awful lot of failed campaigns also happened in these months.
 	
 •	What can you conclude about the Outcomes based on Goals?
 
 	1)	Low goal ranges were successful.
-	2)	The graphic (Figure 2B) also shows that there were other goal ranges which were higher in value which were successful, so just defining a low goal 			range for success may not be the only consideration for a successful funded campaign.
+	2)	The graphic (Figure 2B) also shows that there were other goal ranges which were higher in value which were successful, so just defining a low goal range for success may not be the only consideration for a successful funded campaign.
 	
 •	What are some limitations of this dataset?
 
