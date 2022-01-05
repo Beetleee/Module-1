@@ -13,7 +13,7 @@ Analysis and Challenges
 		
 	Analysis of Outcomes Based on Goals:
 
-	I began this analysis by creating the rows and columns specified by the instructions. I found that after creating the COUNTIFS formula, there was just small editing needed to continue (update just a single criteria or range). Figure 2 (see attached file: Outcomes_vs_Goals_Figure_2.png) shows the filtered data on ‘plays’. In Figure 2A, the goal amount ranges are listed in rows, whereas the calculated total number for each outcome is listed by column, followed by the total number overall, and finally by the fraction of the total (percentage) for each outcome. Figure 2B shows the trends for successful vs failed (canceled was not represented in this campaign category) for each goal range by percentage. 
+	I began this analysis by creating the rows and columns specified by the instructions. I found that after creating the COUNTIFS formula, there was just small editing needed to continue (update just a single criteria or range). Figure 2 (see attached file: Outcomes_vs_Goals_Figure_2.png) shows the filtered data on ‘plays’. In Figure 2A of this, the goal amount ranges are listed in rows, whereas the calculated total number for each outcome is listed by column, followed by the total number overall, and finally by the fraction of the total (percentage) for each outcome. Figure 2B shows the trends for successful vs failed (canceled was not represented in this campaign category) for each goal range by percentage. 
  
 Challenges and Difficulties Encountered
 
