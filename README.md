@@ -3,7 +3,7 @@
   
 Overview of Project
 
-	This project was created to help Louise visualize the goals and rates of success or failure of different theater/play type campaigns. I started with a      database of information containing many campaigns. From this, I was able to filter on data relevant to Louise’s needs, which were specifics on lunch date (month), funding goal (amount), type of campaign (plays/theater type), and overall outcome (success, failure, or canceled) of the campaign. By using functions to help analyze this, I was able to provide Louise several graphics which may help her visualize trends for the month(s) with highest launches for this type of campaign, as well as which funding level goals were most successful/failed.
+	This project was created to help Louise visualize the goals and rates of success or failure of different theater/play type campaigns. I started with a  database of information containing many campaigns. From this, I was able to filter on data relevant to Louise’s needs, which were specifics on lunch date (month), funding goal (amount), type of campaign (plays/theater type), and overall outcome (success, failure, or canceled) of the campaign. By using functions to help analyze this, I was able to provide Louise several graphics which may help her visualize trends for the month(s) with highest launches for this type of campaign, as well as which funding level goals were most successful/failed.
 	
 Analysis and Challenges
 
